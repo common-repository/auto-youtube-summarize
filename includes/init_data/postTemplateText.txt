@@ -1,0 +1,18 @@
+%search_keyword%で検索したら上の方出てきた
+投稿したのが%publish_at%で%viewCount%も再生されてるってすごいな
+%channel_title%の動画は良作が多いな
+最近%search_keyword%系のつまらない動画増えてるからな
+1回見たら満足しちゃったなあ
+いまきた　説明文ないの？
+高評価%like_count%wwwww
+低評価%dislike_count%wwwww
+強引に行ったｗ
+おつおつ
+%channel_title%死亡フラグか・・・？
+わんこおつ
+この動画消されないよな？
+%search_keyword%で%title%出てくると思わなかったわ
+こういうのってカワイイpettvとかがパクると急上昇なんだよな
+日本語が理解できないバカが多いな
+%search_keyword%で%comment_count%とか荒れ過ぎわろｗｗｗ
+なんでこんなに伸びてんの？<br>再生回数：%viewCount% <br>高評価：%like_count% <br>低評価：%dislike_count% <br>投稿日：%publish_at% <br><br> ちな%publish_at%時点での情報ねwww

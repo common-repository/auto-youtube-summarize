@@ -1,0 +1,426 @@
+# Translation of Plugins - Auto Youtube Summarize - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Auto Youtube Summarize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-02 05:57:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Auto Youtube Summarize - Stable (latest release)\n"
+
+#: /auto-youtube-summarize.php:5
+msgid "This is a better and simple way to auto youtube summary posts."
+msgstr "動画まとめサイト構築に最適なプラグイン。"
+
+#: /auto-youtube-summarize.php:73
+msgid "Auto Youtube Summarize"
+msgstr "動画まとめサイト構築プラグイン"
+
+#: /auto-youtube-summarize.php:140
+msgid "Force Video Extraction Now"
+msgstr "動画抽出を今すぐ強制実行"
+
+#: /auto-youtube-summarize.php:194
+msgid "Noname"
+msgstr "名無しさん＠お腹いっぱい"
+
+#: /auto-youtube-summarize.php:194
+msgid "This movie"
+msgstr "ほい動画"
+
+#: /auto-youtube-summarize.php:198
+msgid "「%title%」 seems like a topic"
+msgstr "%title%って動画が話題らしいぞ"
+
+#: /admin/setting.php
+msgid "We recommend that you turn off comment notification."
+msgstr "コメント通知をオフにすることを推奨しています。"
+
+#: /includes/class-auto-youtube-summarize.php:197
+msgid "Sun"
+msgstr "日"
+
+#: /includes/class-auto-youtube-summarize.php:198
+msgid "Mon"
+msgstr "月"
+
+#: /includes/class-auto-youtube-summarize.php:199
+msgid "Tue"
+msgstr "火"
+
+#: /includes/class-auto-youtube-summarize.php:200
+msgid "Wed"
+msgstr "水"
+
+#: /includes/class-auto-youtube-summarize.php:201
+msgid "Thu"
+msgstr "木"
+
+#: /includes/class-auto-youtube-summarize.php:202
+msgid "Fri"
+msgstr "金"
+
+#: /includes/class-auto-youtube-summarize.php:203
+msgid "Sat"
+msgstr "土曜日"
+
+#: /includes/class-auto-youtube-summarize.php:203
+msgid "This is description"
+msgstr "概要"
+
+#: /admin/setting.php:18
+msgid "Google Auth Key"
+msgstr "Google auth キー"
+
+
+#: /admin/setting.php:18
+msgid "Google Auth Key"
+msgstr "Google auth キー"
+
+#: /admin/setting.php:18
+msgid "Google Auth Key"
+msgstr "Google auth キー"
+
+#: /admin/setting.php:18
+msgid "Google Auth Key"
+msgstr "Google auth キー"
+
+#: /admin/setting.php:18
+msgid "Google Auth Key"
+msgstr "Google auth キー"
+
+#: /admin/setting.php:28
+msgid "If you don't know how to get Google Auth key,please look at installation guide."
+msgstr "Google Auth キーの取得方法が分からない方は、こちらのインストール方法をみてください。"
+
+#: /admin/setting.php:35
+msgid "Search Keyword"
+msgstr "検索キーワード"
+
+#: /admin/setting.php:39
+msgid "※ When you want to use multiple keywords, specify them with comma (,) separated."
+msgstr "※複数のキーワードを使いたい場合は、カンマ(,)区切りで指定します。"
+
+#: /admin/setting.php:44
+msgid "Search Option"
+msgstr "検索時のオプション"
+
+#: /admin/setting.php:49
+msgid "Related Keyword"
+msgstr "キーワードとの関連度順"
+
+#: /admin/setting.php:50
+msgid "Latest"
+msgstr "最新順"
+
+#: /admin/setting.php:51
+msgid "Popular"
+msgstr "人気順"
+
+#: /admin/setting.php:52
+msgid "Rating"
+msgstr "評価順"
+
+#: /admin/setting.php:74
+msgid "Extract only videos that were posted up to the ◯ day before"
+msgstr "◯日前までに投稿された動画のみで抽出する"
+
+#: /admin/setting.php:79
+msgid "※ If you set the item here to a large value, the same video will be extracted and the frequency of updating the site will decrease. (We will not post articles with the same title.)"
+msgstr "※ここの項目を大きい値にすると、同じ動画が抽出されてしまいサイトの更新頻度が下がります。（同じタイトルの記事は投稿しません。）"
+
+#: /admin/setting.php:86
+msgid "Maximum number of videos to extract at one time"
+msgstr "一度に抽出する動画の最大数"
+
+#: /admin/setting.php:92
+msgid "※ It is the number of video extraction for one search keyword. (Default: 5)"
+msgstr "※1つの検索キーワードに対しての動画抽出数です。（デフォルト：5）"
+
+#: /admin/setting.php:100
+msgid "Post"
+msgstr "投稿関連"
+
+#: /admin/setting.php:108
+msgid "Post User Name"
+msgstr "投稿ユーザー名"
+
+#: /admin/setting.php:116
+msgid "Post Comment Count"
+msgstr "コメントを◯個表示する"
+
+#: /admin/setting.php:122
+msgid "※ The comments at the beginning and the comments on the video are included in the number."
+msgstr "※冒頭のコメント、動画掲載のコメントも数に含まれます。"
+
+#: /admin/setting.php:128
+msgid "Description Index"
+msgstr "概要欄を表示させる番号"
+
+#: /admin/setting.php:137
+msgid "※ It is the number of video extraction for one search keyword. (Default: 5)"
+msgstr "※1つの検索キーワードに対しての動画抽出数です。（デフォルト：5）"
+
+#: /admin/setting.php:137
+msgid "First Comment in Post"
+msgstr "記事最初のコメント（投稿内）"
+
+#: /admin/setting.php:143
+msgid "※HTML tag enable"
+msgstr "※HTMLが利用できます。"
+
+#: /admin/setting.php:149
+msgid "Second Comment in Post"
+msgstr "2番目の動画掲載時につくコメント（投稿内）"
+
+#: /admin/setting.php:160
+msgid "Comment in Post"
+msgstr "コメント（投稿内）"
+
+#: /admin/setting.php:166
+msgid "※ HTML · The following substitution characters can be used. (Use br if you want to use line breaks in sentences)"
+msgstr "※HTML・下記の置換文字が利用できます。（文章内で改行を使いたい場合はbrを利用してください）"
+
+#: /admin/setting.php:169
+msgid "※ HTML · The following substitution characters can be used. (Use br if you want to use line breaks in sentences)"
+msgstr "※HTML・下記の置換文字が利用できます。（文章内で改行を使いたい場合はbrを利用してください）"
+
+#: /admin/setting.php:166
+msgid "※ You can enter multiple comments by line feed."
+msgstr "※改行で複数のコメントを入力できます。"
+
+
+#: /admin/setting.php:186
+msgid "Comments after posting the video summary (in the post)"
+msgstr "動画概要掲載後のコメント（投稿内）"
+
+#: /admin/setting.php:214
+msgid "Post Comments"
+msgstr "コメント関連"
+
+#: /admin/setting.php:220
+msgid "Post Comment Count"
+msgstr "コメントを◯個表示する"
+
+#: /admin/setting.php:226
+msgid "Comment Content"
+msgstr "コメント内容"
+
+#: /admin/setting.php:251
+msgid "Post Comment User Name"
+msgstr "コメントユーザー名"
+
+#: /admin/setting.php:251
+msgid "Movie ID"
+msgstr "動画ID"
+
+
+#: /admin/setting.php:251
+msgid "Movie High rating"
+msgstr "動画高評価"
+
+
+#: /admin/setting.php:251
+msgid "Movie Low rating"
+msgstr "動画低評価"
+
+
+#: /admin/setting.php:251
+msgid "Comment Count"
+msgstr "コメント数"
+
+
+#: /admin/setting.php:251
+msgid "Movie Title"
+msgstr "動画タイトル"
+
+#: /admin/setting.php:251
+msgid "Movie Description"
+msgstr "動画説明文"
+
+#: /admin/setting.php:251
+msgid "Upload Date"
+msgstr "投稿日時"
+
+#: /admin/setting.php:251
+msgid "View Count"
+msgstr "閲覧数"
+
+#: /admin/setting.php:251
+msgid "Channel Title"
+msgstr "チャンネル名"
+
+#: /admin/addon.php:29
+msgid "Add-Ons will enable you to do this."
+msgstr "アドオンを購入すると以下のことが行えるようになります。"
+
+#: /admin/addon.php:29
+msgid "Change the narrowing conditions on get movies"
+msgstr "動画抽出の絞り込み条件を変えられます。"
+
+#: /admin/addon.php:29
+msgid "Remove ads on every bottom of content"
+msgstr "記事下部の広告表記を消すことができます。"
+
+#: /admin/addon.php:29
+msgid "Customize post content."
+msgstr "投稿内容がカスタマイズできます。"
+
+#: /admin/addon.php:29
+msgid "Addon's Feature"
+msgstr "アドオン"
+
+#: /admin/addon.php:29
+msgid "Add-Ons"
+msgstr "アドオン"
+
+#: /admin/addon.php:29
+msgid "How to get Addon"
+msgstr "アドオンの購入方法"
+
+#: /admin/addon.php:29
+msgid "Auto Youtube Sammarize"
+msgstr "動画まとめサイト構築プラグイン"
+
+#: /admin/install.php
+msgid "This is Installation guide"
+msgstr "インストール方法の説明"
+
+#: /admin/install.php
+msgid "1.Get API key"
+msgstr "1.動画収集用のAPIキーを入手しよう"
+
+#: /admin/install.php
+msgid "If you not have Google Account,Create Google Account"
+msgstr "Googleアカウントをお持ちでない方は、作成してください。"
+
+#: /admin/install.php
+msgid "Create Google Account"
+msgstr "Googleアカウントを作成"
+
+#: /admin/install.php
+msgid "Next,access to <a href="https://console.cloud.google.com/">Google Cloud Console</a>"
+msgstr "その後、<a href="https://console.cloud.google.com/">Google Cloud Console</a>へアクセスします。"
+
+
+#: /admin/install.php
+msgid "Select "APIs and Services"-> "Dashboard" from the top left menu."
+msgstr "左上のメニューから「APIとサービス」→「ダッシュボード」を選択します。"
+
+#: /admin/install.php
+msgid "Click "Enable API and Service" on the screen."
+msgstr "画面上の「APIとサービスの有効化」をクリックします。"
+
+
+#: /admin/install.php
+msgid "Select "APIs and Services"-> "Dashboard" from the top left menu."
+msgstr "左上のメニューから「APIとサービス」→「ダッシュボード」を選択します。"
+
+#: /admin/install.php
+msgid "I will move to the screen to search for the API, so I will search for "Youtube Data" here, search for "Youtube Data Api v3" and activate it.."
+msgstr "APIを検索する画面へ移るので、ここで「Youtube Data」と検索し、「Youtube Data Api v3」を探し、有効化します。"
+
+#: /admin/install.php
+msgid "When activation is complete, from menu "API and service" → "Authentication information" → "Create authentication information" → "API key" and press to issue the API key."
+msgstr "有効化が完了したら、メニューの「APIとサービス」→「認証情報」から「認証情報を作成」→「APIキー」を押し、APIキーを発行します。"
+
+#: /admin/install.php
+msgid "2.Setting"
+msgstr "2.設定"
+
+
+#: /admin/install.php
+msgid "Please enter the API key from "Auto Youtube Summarize"-> "Google auth key" for the previously acquired APi key."
+msgstr "先程取得したAPiキーを「Auto Youtube Summarize」→「Google auth キー」でAPIキーを入力してください。"
+
+
+#: /admin/install.php
+msgid "Configuration is complete."
+msgstr "これで設定は完了です。"
+
+#: /admin/install.php
+msgid "Make various settings on the corresponding page. A comment is added on each item."
+msgstr "該当ページの各種設定を行います。それぞれの項目について解説を加えます。"
+
+
+#: /admin/install.php
+msgid "<strong> Google auth key </strong>: Enter Google's API key."
+msgstr "<strong>Google auth キー</strong>：Google の APIキーを入力します。"
+
+#: /admin/install.php
+msgid "<strong> Search Keyword </strong>: Enter a keyword."
+msgstr "<strong>検索キーワード</strong>：キーワードを入力します。"
+
+#: /admin/install.php
+msgid "<strong> Search options </strong>: Determine the video collection priority."
+msgstr "<strong>検索時のオプション</strong>：動画の収集優先順位を決定します。"
+
+#: /admin/install.php
+msgid "<strong> Exclude only videos posted up to the day before </strong>: Filter by the date of video posting. (If you do not narrow down, the same video will be extracted more easily.)"
+msgstr "<strong>◯日前までに投稿された動画のみで抽出する</strong>：動画の投稿日時で絞り込みをします。（絞らないと同じ動画が抽出されやすくなります。）"
+
+#: /admin/install.php
+msgid "<strong> Maximum number of videos to extract at once </strong>: The number of videos to collect for keywords at one time. Defaults are recommended unless there is a specific reason."
+msgstr "<strong>一度に抽出する動画の最大数</strong>：一度でキーワードに対して収集する動画の数です。特に理由がなければデフォルトを推奨します。"
+
+#: /admin/install.php
+msgid "<strong> Post Comment name </strong>: Determines the name of the comment, such as the summary site in the article."
+msgstr "<strong>投稿名</strong>：記事内のまとめサイトのようなコメントの名前を決定します。"
+
+
+
+#: /admin/install.php
+msgid "<strong> Show comments per page </strong>: Determine the number of comments in the article."
+msgstr "<strong>コメントを◯個表示する</strong>：記事内のコメントの数を決めます。"
+
+#: /admin/install.php
+msgid "<strong> Number to display summary column </strong>: Decide the order of the comments for the video summary column."
+msgstr "<strong>概要欄を表示させる番号</strong>：動画概要欄を掲載するコメントの順番を決めます。"
+
+#: /admin/install.php
+msgid "<strong> First article comment (within post) </strong>: Determines the content that will appear first in the article. (HTML and replacement characters can be used.)"
+msgstr "<strong>記事最初のコメント（投稿内）</strong>：記事の一番最初に掲載する内容を決定します。(HTML・置き換え文字が利用できます。）"
+
+
+#: /admin/install.php
+msgid "<strong> Second video comment (within post)</strong>: Determines the second comment for the article. (HTML and replacement characters can be used.)"
+msgstr "<strong>2番目の動画掲載時につくコメント（投稿内）</strong>：記事の2番目につくコメントを決定します。(HTML・置き換え文字が利用できます。）"
+
+#: /admin/install.php
+msgid "<strong> Comments (within a post) </strong>: Specify other comments. (HTML and replacement characters can be used.)"
+msgstr "<strong>コメント（投稿内）</strong>：その他のコメントを指定します。(HTML・置き換え文字が利用できます。）"
+
+#: /admin/install.php
+msgid "<strong> Comment after posting video summary (within post)</strong>: Specify the comment after the summary column. (HTML and replacement characters can be used.)"
+msgstr "<strong>動画概要掲載後のコメント（投稿内）</strong>：概要欄後のコメントを指定します。(HTML・置き換え文字が利用できます。）"
+
+#: /admin/install.php
+msgid "<strong> Show individual comments </strong>: Specify the number of comments to post."
+msgstr "<strong>コメントを◯個表示する</strong>：投稿につくコメントの数を指定します。"
+
+#: /admin/install.php
+msgid "<strong> Comment content </strong>: Specify the content of the comment."
+msgstr "<strong>コメント内容</strong>：コメントの内容を指定します。"
+
+#: /admin/install.php
+msgid "<strong> Comment Name </strong>: Specify a name for the comment."
+msgstr "<strong>コメント名</strong>：コメントの名前を指定します。"
+
+
+#: /admin/install.php
+msgid "This plugin is using 'wp_cron'.So, run auto posts when user access comes."
+msgstr "このプラグインはwp_cronを利用しています。そのため、スクリプトが実行されるのはユーザーのアクセスがあったタイミングです。"
+
+#: /admin/install.php
+msgid "'wp_cron' set twice daily"
+msgstr "wp_cronは最大1日に2回実行されます。"
+
+#: /auto-youtube-summarize.php:140
+msgid "This function needs addons.Please see Add-ons page"
+msgstr "この機能を利用するにはアドオンが必要になります。"
+
+
+
